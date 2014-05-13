@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Jonas Fredin
+tagline: 
+description: My awesome new site via <a href="https://tinypress.co/" target="_blank">Tinypress</a>
+paginate: 5
